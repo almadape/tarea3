@@ -1,0 +1,8 @@
+1. ¿Qué es bootstrap?
+Bootstrap es un framework css & html (Twitter Bootstrap nombre completo) El mismo consiste en un conjunto de herramientas de código abierto para el diseño de páginas y aplicaciones Web front-end.
+2. ¿Qué es OOCSS?
+Se refiere a la utilización del CSS orientado a objetos. En otras palabras implica la reutilización del código CSS de manera rápida y escalable, además de una fácil mantención. Busca que CSS sea modular (orientación a objetos) y de esta forma agilizar el proceso de la programación en CSS.
+3-Que es Component CSS?
+Es una arquitectura que simplifica la experiencia de creación de CSS para aplicaciones web.
+4-Que son preprocesadores CSS?
+Es una herramienta que nos permite escribir pseudo-código CSS que luego será convertido a CSS real, se conforma de variables, condiciones, bucles o funciones. El objetivo de estos preprocesadores es tener un código más sencillo de mantener y editar.
